@@ -1,0 +1,11 @@
+.custom-jumbo {
+    background-image: url("https://images.pexels.com/photos/1447367/pexels-photo-1447367.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-size: cover;
+    height: 200px;
+}
+
+#header-name {
+    color:white;
+    font-family: 'Sail', cursive;
+    font-size: 100px;
+}
