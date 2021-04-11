@@ -1,11 +1,55 @@
+body {
+    background-color: rgb(207, 162, 170);
+}
+
 .custom-jumbo {
-    background-image: url("https://images.pexels.com/photos/1447367/pexels-photo-1447367.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-image: url("https://images.pexels.com/photos/931158/pexels-photo-931158.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260");
+    background-position: 50px ;
     background-size: cover;
     height: 200px;
 }
 
 #header-name {
-    color:white;
+    color:rgb(255, 255, 255);
     font-family: 'Sail', cursive;
     font-size: 100px;
 }
+
+#work-sec {
+margin: 20px;
+background-color:rgb(231,199,199) ;
+}
+
+#contact-sec {
+    margin: 20px;
+    background-color: rgb(171,116,116);
+    padding: 15px;
+}
+
+#about-sec {
+    margin: 20px;
+    background-color: rgb(171,116,116);
+    padding: 15px;
+}
+
+#about-me-id {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px;
+}
+
+#work- {
+    margin: 20px;
+    padding: 15px;
+}
+
+.card-1, .card-2, .card-3, .card-4, .card-5, .card-6, .card-7 {
+    background-color: white;
+    margin: 30px;
+}
+
+/* rgb(133,90,90)
+rgb(171,116,116)
+rgb(204,151,151)
+rgb(231,199,199)
+rgb(240,219,219) */
