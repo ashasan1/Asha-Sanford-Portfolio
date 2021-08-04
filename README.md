@@ -9,4 +9,4 @@ I created a navagation bar under the site header to help visitors navigate throu
 
 I created a "contact me" section for visitors to reach out to Asha Sanford through phone, email, etc for additional information.
 
-Link to webpage: https://ashasan1.github.io/gt-week8-portfolio-revised/
+Link to webpage: https://ashasan1.github.io/Asha-Sanford-Portfolio/
