@@ -24,12 +24,14 @@ background-color:rgb(231,199,199) ;
     margin: 20px;
     background-color: rgb(171,116,116);
     padding: 15px;
+    border-radius: 10px;
 }
 
 #about-sec {
     margin: 20px;
     background-color: rgb(171,116,116);
     padding: 15px;
+    border-radius: 10px;
 }
 
 #about-me-id {
@@ -38,14 +40,19 @@ background-color:rgb(231,199,199) ;
     margin: 15px;
 }
 
-#work- {
+#work-sec {
     margin: 20px;
     padding: 15px;
+    border-radius: 10px;
+
 }
 
 .card-1, .card-2, .card-3, .card-4, .card-5, .card-6, .card-7 {
     background-color: white;
     margin: 30px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(214, 127, 127);
 }
 
 /* rgb(133,90,90)
